@@ -9,8 +9,8 @@ This program will ask the user for their user name and password for G Mail, then
 
 ## Example
 python smtp.py
-
-  *EMAIL: HCLinton@gmail.com
+```
+  EMAIL: HCLinton@gmail.com
   PASSWORD: p@55w0rd
   Recipient(s): kimJongUn@gmail.com TrumpMyBaby@gmail.com
   Subject: test
@@ -20,4 +20,5 @@ python smtp.py
   Login: CHECK
   Transefer: CHECK
   SENDING...
-  Email sent!*
+  Email sent!
+```
